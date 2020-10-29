@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5345629526120414306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5345629526120414307}
+  - component: {fileID: 5345629526120415133}
+  - component: {fileID: 5345629526120415132}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5345629526120414307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5345629526120414306}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5345629526120415133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5345629526120414306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf9b12471efc345f1a7f13143f1ae353, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  columns: 10
+  rows: 8
+  obstacleCount:
+    minimum: 5
+    maximum: 8
+  candyCount:
+    minimum: 1
+    maximum: 5
+  exit: {fileID: 7319279492915754162, guid: 247bcc70f039546cbb608665d3d01d75, type: 3}
+  floorTile: {fileID: 3906922051225190259, guid: 264957ee8a4154689aff85d1956e229c, type: 3}
+  enemyTile: {fileID: 959017891298878013, guid: 77329ff28e93142e799cfd0d3e71eb2e, type: 3}
+  obstacleTiles:
+  - {fileID: 5328544994154241361, guid: b0bb29a013b1e4c4a8a29df2281d9a4b, type: 3}
+  - {fileID: 8508540809712553315, guid: 0b1af359f3a8541298c75580049c9835, type: 3}
+  - {fileID: 8961104672550865401, guid: cd1f76a46fc3e490382195cfd59b5872, type: 3}
+  - {fileID: 5951741631596617543, guid: 289fb486aed6f453eb1773dee1f0863b, type: 3}
+  wallTiles:
+  - {fileID: 7038206812174072235, guid: 0acc634bf81e74b06a987950051c1704, type: 3}
+  - {fileID: 3164833313402535287, guid: 96540b07e61bf4a44b2da0ef861d5ea7, type: 3}
+  - {fileID: 8272406172092711699, guid: 1055fc236bee246cabbf933f30f1e202, type: 3}
+  - {fileID: 7678873437505664841, guid: b782b1a05c8ba477ea69bdcb2dc10b27, type: 3}
+  - {fileID: 539317596017236069, guid: 323646bcf6aa54928ada40a56d799f09, type: 3}
+  - {fileID: 5272001468310141814, guid: f2c33a8963ee24fb3a3f8cce0b25d49c, type: 3}
+  candy:
+  - {fileID: 7445389590424683877, guid: c9f28ba5a275c408d8d2277dd9088e89, type: 3}
+  - {fileID: 8928878997257081409, guid: ab9cc788457004fecb882a30a610d5af, type: 3}
+  - {fileID: 1266684737980339207, guid: 49553b501b98b47349c2b692a126c74d, type: 3}
+  - {fileID: 3324184332877802311, guid: 6a039873649be411fbbd2c3a4027c06a, type: 3}
+--- !u!114 &5345629526120415132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5345629526120414306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b857fe89b04d2495788f87b9bcb0cdc6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boardScript: {fileID: 0}

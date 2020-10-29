@@ -1,0 +1,3082 @@
+fileFormatVersion: 2
+guid: a008628f62be94ac1b9079f464ef959f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7787585179233322127
+    second: HouseTiles_0
+  - first:
+      213: 7761038333626720803
+    second: HouseTiles_1
+  - first:
+      213: -4025999040367540129
+    second: HouseTiles_2
+  - first:
+      213: -4964596302938136439
+    second: HouseTiles_3
+  - first:
+      213: 3402653523288105603
+    second: HouseTiles_4
+  - first:
+      213: -7674310632201223713
+    second: HouseTiles_5
+  - first:
+      213: 8265104546754900614
+    second: HouseTiles_6
+  - first:
+      213: -5348128688194380411
+    second: HouseTiles_7
+  - first:
+      213: -2508572478469993522
+    second: HouseTiles_8
+  - first:
+      213: 1697127356842714729
+    second: HouseTiles_9
+  - first:
+      213: 3278008261659373923
+    second: HouseTiles_10
+  - first:
+      213: -2768868110530188232
+    second: HouseTiles_11
+  - first:
+      213: 4208886240880210301
+    second: HouseTiles_12
+  - first:
+      213: -9080508493452462448
+    second: HouseTiles_13
+  - first:
+      213: 5417469189341648041
+    second: HouseTiles_14
+  - first:
+      213: -3236673221085773910
+    second: HouseTiles_15
+  - first:
+      213: 5247197302814624104
+    second: HouseTiles_16
+  - first:
+      213: -2770614297866237919
+    second: HouseTiles_17
+  - first:
+      213: 7754821624644750234
+    second: HouseTiles_18
+  - first:
+      213: -5057430026994388978
+    second: HouseTiles_19
+  - first:
+      213: -8710252365604222720
+    second: HouseTiles_20
+  - first:
+      213: -870660872673516044
+    second: HouseTiles_21
+  - first:
+      213: -7322043433057966949
+    second: HouseTiles_22
+  - first:
+      213: 1757989256030663055
+    second: HouseTiles_23
+  - first:
+      213: 3586128807141389735
+    second: HouseTiles_24
+  - first:
+      213: -576946308363023404
+    second: HouseTiles_25
+  - first:
+      213: 3772732551752185720
+    second: HouseTiles_26
+  - first:
+      213: -3974566601162700062
+    second: HouseTiles_27
+  - first:
+      213: 794239865799743536
+    second: HouseTiles_28
+  - first:
+      213: -5122101847978523841
+    second: HouseTiles_29
+  - first:
+      213: -8949734770648204388
+    second: HouseTiles_30
+  - first:
+      213: -4320322918652785004
+    second: HouseTiles_31
+  - first:
+      213: -7693140202155499473
+    second: HouseTiles_32
+  - first:
+      213: 2053669391195190322
+    second: HouseTiles_33
+  - first:
+      213: 194841159101392597
+    second: HouseTiles_34
+  - first:
+      213: -6914045662734976089
+    second: HouseTiles_35
+  - first:
+      213: -4339758258768896310
+    second: HouseTiles_36
+  - first:
+      213: 8455523254467295508
+    second: HouseTiles_37
+  - first:
+      213: 1221821900529438676
+    second: HouseTiles_38
+  - first:
+      213: -6365421552939832371
+    second: HouseTiles_39
+  - first:
+      213: 4838400374858676056
+    second: HouseTiles_40
+  - first:
+      213: 3609055211306275925
+    second: HouseTiles_41
+  - first:
+      213: -6111813779626558690
+    second: HouseTiles_42
+  - first:
+      213: 7980158319753365848
+    second: HouseTiles_43
+  - first:
+      213: 5982982041043127224
+    second: HouseTiles_44
+  - first:
+      213: -7523706231553877173
+    second: HouseTiles_45
+  - first:
+      213: -3438159595086103997
+    second: HouseTiles_46
+  - first:
+      213: -4320011066624886943
+    second: HouseTiles_47
+  - first:
+      213: 6445103928273831775
+    second: HouseTiles_48
+  - first:
+      213: 4971741100302118559
+    second: HouseTiles_49
+  - first:
+      213: -7552677871777490811
+    second: HouseTiles_50
+  - first:
+      213: 3337376722745564169
+    second: HouseTiles_51
+  - first:
+      213: -6012593770682245399
+    second: HouseTiles_52
+  - first:
+      213: -1403902609121972058
+    second: HouseTiles_53
+  - first:
+      213: -3399566164039517023
+    second: HouseTiles_54
+  - first:
+      213: 9203257671550104472
+    second: HouseTiles_55
+  - first:
+      213: 7060029683751705180
+    second: HouseTiles_56
+  - first:
+      213: 7110587807360914753
+    second: HouseTiles_57
+  - first:
+      213: 4415747565428692186
+    second: HouseTiles_58
+  - first:
+      213: 6297407224978876419
+    second: HouseTiles_59
+  - first:
+      213: 8398165901114400957
+    second: HouseTiles_60
+  - first:
+      213: 4898130534379954862
+    second: HouseTiles_61
+  - first:
+      213: 3734498540359725874
+    second: HouseTiles_62
+  - first:
+      213: 8036650072381700449
+    second: HouseTiles_63
+  - first:
+      213: -5888780699352168270
+    second: HouseTiles_64
+  - first:
+      213: 8233892883224418075
+    second: HouseTiles_65
+  - first:
+      213: 173764059319461192
+    second: HouseTiles_66
+  - first:
+      213: 8809562639591566865
+    second: HouseTiles_67
+  - first:
+      213: 2574385561694513007
+    second: HouseTiles_68
+  - first:
+      213: 6524790976298950531
+    second: HouseTiles_69
+  - first:
+      213: -2937573587956174502
+    second: HouseTiles_70
+  - first:
+      213: 3070308317743504252
+    second: HouseTiles_71
+  - first:
+      213: -4072500951238908996
+    second: HouseTiles_72
+  - first:
+      213: -3184697486954820412
+    second: HouseTiles_73
+  - first:
+      213: 4078814672030786653
+    second: HouseTiles_74
+  - first:
+      213: -2661641944347244138
+    second: HouseTiles_75
+  - first:
+      213: 29063265807551948
+    second: HouseTiles_76
+  - first:
+      213: -7344840418353451902
+    second: HouseTiles_77
+  - first:
+      213: -8822931728050718555
+    second: HouseTiles_78
+  - first:
+      213: 8577985142388929766
+    second: HouseTiles_79
+  - first:
+      213: 4997879804938948558
+    second: HouseTiles_80
+  - first:
+      213: -7099198409109145676
+    second: HouseTiles_81
+  - first:
+      213: -172562216170202481
+    second: HouseTiles_82
+  - first:
+      213: 4467521467238237588
+    second: HouseTiles_83
+  - first:
+      213: 6688909031701124786
+    second: HouseTiles_84
+  - first:
+      213: -6149367594211539762
+    second: HouseTiles_85
+  - first:
+      213: 1406759146811223019
+    second: HouseTiles_86
+  - first:
+      213: 807280991922910632
+    second: HouseTiles_87
+  - first:
+      213: 6318433987413614336
+    second: HouseTiles_88
+  - first:
+      213: -6195386963346100334
+    second: HouseTiles_89
+  - first:
+      213: 2493832326343571011
+    second: HouseTiles_90
+  - first:
+      213: -6242755818603348994
+    second: HouseTiles_91
+  - first:
+      213: -2983819531943186343
+    second: HouseTiles_92
+  - first:
+      213: 8315941279808560379
+    second: HouseTiles_93
+  - first:
+      213: -1764133725950215001
+    second: HouseTiles_94
+  - first:
+      213: -6766931030262956752
+    second: HouseTiles_95
+  - first:
+      213: -8557348155456124519
+    second: HouseTiles_96
+  - first:
+      213: -1419180636865544195
+    second: HouseTiles_97
+  - first:
+      213: -4683151409345800576
+    second: HouseTiles_98
+  - first:
+      213: -5104820845425785775
+    second: HouseTiles_99
+  - first:
+      213: 706992464425021215
+    second: HouseTiles_100
+  - first:
+      213: 3497925800273692576
+    second: HouseTiles_101
+  - first:
+      213: 3953163857222272030
+    second: HouseTiles_102
+  - first:
+      213: 6035376343583706093
+    second: HouseTiles_103
+  - first:
+      213: 9145720053659999317
+    second: HouseTiles_104
+  - first:
+      213: -4906649798028059807
+    second: HouseTiles_105
+  - first:
+      213: 7241447922083501663
+    second: HouseTiles_106
+  - first:
+      213: -3505220855589164803
+    second: HouseTiles_107
+  - first:
+      213: 5360611409299060710
+    second: HouseTiles_108
+  - first:
+      213: -8847160362278281162
+    second: HouseTiles_109
+  - first:
+      213: -6201602968334506351
+    second: HouseTiles_110
+  - first:
+      213: 2544893081001641554
+    second: HouseTiles_111
+  - first:
+      213: -1717685708127742259
+    second: HouseTiles_112
+  - first:
+      213: -4004649256315467689
+    second: HouseTiles_113
+  - first:
+      213: 2832141196228734020
+    second: HouseTiles_114
+  - first:
+      213: 8591783740984309578
+    second: HouseTiles_115
+  - first:
+      213: -7927989748046151534
+    second: HouseTiles_116
+  - first:
+      213: -2318023653053564788
+    second: HouseTiles_117
+  - first:
+      213: 5881619282295167556
+    second: HouseTiles_118
+  - first:
+      213: 5600356479184423046
+    second: HouseTiles_119
+  - first:
+      213: -6101948840745602841
+    second: HouseTiles_120
+  - first:
+      213: -5782407945410649327
+    second: HouseTiles_121
+  - first:
+      213: -8961988510136010510
+    second: HouseTiles_122
+  - first:
+      213: 5426871399057347882
+    second: HouseTiles_123
+  - first:
+      213: -2479254703856188938
+    second: HouseTiles_124
+  - first:
+      213: -5203490736697659067
+    second: HouseTiles_125
+  - first:
+      213: 151657308624410252
+    second: HouseTiles_126
+  - first:
+      213: 6990681940128390912
+    second: HouseTiles_127
+  - first:
+      213: -4975857629099102620
+    second: HouseTiles_128
+  - first:
+      213: 3914023439657816489
+    second: HouseTiles_129
+  - first:
+      213: 3196097997920312362
+    second: HouseTiles_130
+  - first:
+      213: 984002111751748871
+    second: HouseTiles_131
+  - first:
+      213: -1995137462017062795
+    second: HouseTiles_132
+  - first:
+      213: 1537014563456944943
+    second: HouseTiles_133
+  - first:
+      213: 1013564201831943324
+    second: HouseTiles_134
+  - first:
+      213: 6998981929127447524
+    second: HouseTiles_135
+  - first:
+      213: 8151255727881461191
+    second: HouseTiles_136
+  - first:
+      213: -2690407213564080663
+    second: HouseTiles_137
+  - first:
+      213: -4140577133532402131
+    second: HouseTiles_138
+  - first:
+      213: 63465515933923690
+    second: HouseTiles_139
+  - first:
+      213: 1018077651317109238
+    second: HouseTiles_140
+  - first:
+      213: 3231962970472967305
+    second: HouseTiles_141
+  - first:
+      213: -3326971698085871157
+    second: HouseTiles_142
+  - first:
+      213: 1270584219418552435
+    second: HouseTiles_143
+  - first:
+      213: -5709275861347114213
+    second: HouseTiles_144
+  - first:
+      213: -7252874019610287420
+    second: HouseTiles_145
+  - first:
+      213: 944930223820691350
+    second: HouseTiles_146
+  - first:
+      213: 2301916359702653682
+    second: HouseTiles_147
+  - first:
+      213: -7230040094947303124
+    second: HouseTiles_148
+  - first:
+      213: 4390649129738023585
+    second: HouseTiles_149
+  - first:
+      213: -2741433941643929474
+    second: HouseTiles_150
+  - first:
+      213: -4597458785438255670
+    second: HouseTiles_151
+  - first:
+      213: 650711400228191631
+    second: HouseTiles_152
+  - first:
+      213: -6875330575675048608
+    second: HouseTiles_153
+  - first:
+      213: -4281954740001298113
+    second: HouseTiles_154
+  - first:
+      213: 8475760128905173478
+    second: HouseTiles_155
+  - first:
+      213: 7651874817758294351
+    second: HouseTiles_156
+  - first:
+      213: 6426191058219663901
+    second: HouseTiles_157
+  - first:
+      213: -7412520633737773879
+    second: HouseTiles_158
+  - first:
+      213: 540475250282124660
+    second: HouseTiles_159
+  - first:
+      213: 1302463084268753574
+    second: HouseTiles_160
+  - first:
+      213: 8637407231373093724
+    second: HouseTiles_161
+  - first:
+      213: 2058982666024113171
+    second: HouseTiles_162
+  - first:
+      213: -5531439571026892751
+    second: HouseTiles_163
+  - first:
+      213: 8257756761308433101
+    second: HouseTiles_164
+  - first:
+      213: -4587879054555329705
+    second: HouseTiles_165
+  - first:
+      213: -5271227451404689364
+    second: HouseTiles_166
+  - first:
+      213: 3294189869503011815
+    second: HouseTiles_167
+  - first:
+      213: 7930476108949130564
+    second: HouseTiles_168
+  - first:
+      213: -3998703446478234481
+    second: HouseTiles_169
+  - first:
+      213: -7190612815060579478
+    second: HouseTiles_170
+  - first:
+      213: 5221670095497386518
+    second: HouseTiles_171
+  - first:
+      213: -6141528392140337254
+    second: HouseTiles_172
+  - first:
+      213: 3846324252955541712
+    second: HouseTiles_173
+  - first:
+      213: -5730844770638195186
+    second: HouseTiles_174
+  - first:
+      213: -704378089402568884
+    second: HouseTiles_175
+  - first:
+      213: 8054570473144937528
+    second: HouseTiles_176
+  - first:
+      213: -8198241413852734499
+    second: HouseTiles_177
+  - first:
+      213: 4532911677441565884
+    second: HouseTiles_178
+  - first:
+      213: -3130734389984444371
+    second: HouseTiles_179
+  - first:
+      213: -3270897616154121010
+    second: HouseTiles_180
+  - first:
+      213: -5672651324137324371
+    second: HouseTiles_181
+  - first:
+      213: 448979911352396255
+    second: HouseTiles_182
+  - first:
+      213: 4425739520449279242
+    second: HouseTiles_183
+  - first:
+      213: 1270082486057033592
+    second: HouseTiles_184
+  - first:
+      213: 5881831291868001327
+    second: HouseTiles_185
+  - first:
+      213: 3416681087293604677
+    second: HouseTiles_186
+  - first:
+      213: -7993671249646829831
+    second: HouseTiles_187
+  - first:
+      213: -966702424327840198
+    second: HouseTiles_188
+  - first:
+      213: 3803238047271338370
+    second: HouseTiles_189
+  - first:
+      213: 6814584591762185878
+    second: HouseTiles_190
+  - first:
+      213: -5028636111967085590
+    second: HouseTiles_191
+  - first:
+      213: 240608589058576270
+    second: HouseTiles_192
+  - first:
+      213: 415894346129112495
+    second: HouseTiles_193
+  - first:
+      213: 7004541110716042110
+    second: HouseTiles_194
+  - first:
+      213: -1748074405512504545
+    second: HouseTiles_195
+  - first:
+      213: 5730475804828549361
+    second: HouseTiles_196
+  - first:
+      213: 1840970267820688679
+    second: HouseTiles_197
+  - first:
+      213: -2991204526495549017
+    second: HouseTiles_198
+  - first:
+      213: 6830232850286248525
+    second: HouseTiles_199
+  - first:
+      213: -3071174309262856573
+    second: HouseTiles_200
+  - first:
+      213: -6332313485992313135
+    second: HouseTiles_201
+  - first:
+      213: 4950022778196094112
+    second: HouseTiles_202
+  - first:
+      213: 3139270949586151048
+    second: HouseTiles_203
+  - first:
+      213: 6450575504352749198
+    second: HouseTiles_204
+  - first:
+      213: -5367055984690117240
+    second: HouseTiles_205
+  - first:
+      213: 5939189608386658611
+    second: HouseTiles_206
+  - first:
+      213: 646408773437067963
+    second: HouseTiles_207
+  - first:
+      213: -7440988559732808397
+    second: HouseTiles_208
+  - first:
+      213: 2106036031058845411
+    second: HouseTiles_209
+  - first:
+      213: 6283215313941151826
+    second: HouseTiles_210
+  - first:
+      213: -3195436345351998301
+    second: HouseTiles_211
+  - first:
+      213: 8893984745364932817
+    second: HouseTiles_212
+  - first:
+      213: -656233649768004120
+    second: HouseTiles_213
+  - first:
+      213: 4184498169657555535
+    second: HouseTiles_214
+  - first:
+      213: -2428751666853018127
+    second: HouseTiles_215
+  - first:
+      213: 9148758874802146155
+    second: HouseTiles_216
+  - first:
+      213: 6183304197846488960
+    second: HouseTiles_217
+  - first:
+      213: 304063375934517516
+    second: HouseTiles_218
+  - first:
+      213: -5343468498672242010
+    second: HouseTiles_219
+  - first:
+      213: 8597940089445778175
+    second: HouseTiles_220
+  - first:
+      213: -9022324375108848883
+    second: HouseTiles_221
+  - first:
+      213: 2707279030335849383
+    second: HouseTiles_222
+  - first:
+      213: -84281729080165960
+    second: HouseTiles_223
+  - first:
+      213: -5907546982563760404
+    second: HouseTiles_224
+  - first:
+      213: 8200269990659785116
+    second: HouseTiles_225
+  - first:
+      213: 1143647708212576686
+    second: HouseTiles_226
+  - first:
+      213: -2081691334707689033
+    second: HouseTiles_227
+  - first:
+      213: 7539358485903568677
+    second: HouseTiles_228
+  - first:
+      213: 408764067743397033
+    second: HouseTiles_229
+  - first:
+      213: 1677935878544164402
+    second: HouseTiles_230
+  - first:
+      213: -3924307879975454604
+    second: HouseTiles_231
+  - first:
+      213: -2761029808149866684
+    second: HouseTiles_232
+  - first:
+      213: 2071044063740104065
+    second: HouseTiles_233
+  - first:
+      213: -8714248979838582272
+    second: HouseTiles_234
+  - first:
+      213: 8095625313135990800
+    second: HouseTiles_235
+  - first:
+      213: -1090009905257607681
+    second: HouseTiles_236
+  - first:
+      213: -648794579605074295
+    second: HouseTiles_237
+  - first:
+      213: 5022594007159663015
+    second: HouseTiles_238
+  - first:
+      213: -3184551378964065612
+    second: HouseTiles_239
+  - first:
+      213: 4482490070499119235
+    second: HouseTiles_240
+  - first:
+      213: 7564210903193807905
+    second: HouseTiles_241
+  - first:
+      213: -8216819984506388908
+    second: HouseTiles_242
+  - first:
+      213: 5814783998204824626
+    second: HouseTiles_243
+  - first:
+      213: 1568067816295277920
+    second: HouseTiles_244
+  - first:
+      213: -5737380797106402281
+    second: HouseTiles_245
+  - first:
+      213: -1366187947957105813
+    second: HouseTiles_246
+  - first:
+      213: 5736086514338742041
+    second: HouseTiles_247
+  - first:
+      213: 2654222761760071942
+    second: HouseTiles_248
+  - first:
+      213: -4015936248073793349
+    second: HouseTiles_249
+  - first:
+      213: 1936475256621333771
+    second: HouseTiles_250
+  - first:
+      213: 559779462327813868
+    second: HouseTiles_251
+  - first:
+      213: -8504869481912819848
+    second: HouseTiles_252
+  - first:
+      213: 2832091605237955016
+    second: HouseTiles_253
+  - first:
+      213: -8030060056978564011
+    second: HouseTiles_254
+  - first:
+      213: -6631282341545867836
+    second: HouseTiles_255
+  - first:
+      213: 2550920358437851468
+    second: HouseTiles_256
+  - first:
+      213: 5214160211896743500
+    second: HouseTiles_257
+  - first:
+      213: -7490486197683534468
+    second: HouseTiles_258
+  - first:
+      213: 5103457580567683006
+    second: HouseTiles_259
+  - first:
+      213: 3831570862379018450
+    second: HouseTiles_260
+  - first:
+      213: -5162480088874737147
+    second: HouseTiles_261
+  - first:
+      213: -6824164666432277467
+    second: HouseTiles_262
+  - first:
+      213: -1943571971978917410
+    second: HouseTiles_263
+  - first:
+      213: -4252615382245284031
+    second: HouseTiles_264
+  - first:
+      213: 7249147847944594189
+    second: HouseTiles_265
+  - first:
+      213: 656107962005328642
+    second: HouseTiles_266
+  - first:
+      213: -7773370351380296623
+    second: HouseTiles_267
+  - first:
+      213: -7650911019738242355
+    second: HouseTiles_268
+  - first:
+      213: -7308645070480273401
+    second: HouseTiles_269
+  - first:
+      213: 2617519633494585360
+    second: HouseTiles_270
+  - first:
+      213: 4498994323796356563
+    second: HouseTiles_271
+  - first:
+      213: 7673684772335932875
+    second: HouseTiles_272
+  - first:
+      213: 6106365715745212117
+    second: HouseTiles_273
+  - first:
+      213: -3130021064847791313
+    second: HouseTiles_274
+  - first:
+      213: 7474039895322946728
+    second: HouseTiles_275
+  - first:
+      213: -9137081143569441253
+    second: HouseTiles_276
+  - first:
+      213: -7748309183213529862
+    second: HouseTiles_277
+  - first:
+      213: 4452308294543255099
+    second: HouseTiles_278
+  - first:
+      213: -995761302711173448
+    second: HouseTiles_279
+  - first:
+      213: -7558434422503045642
+    second: HouseTiles_280
+  - first:
+      213: -184288885350111023
+    second: HouseTiles_281
+  - first:
+      213: -2664590989538183796
+    second: HouseTiles_282
+  - first:
+      213: 6356666337276670755
+    second: HouseTiles_283
+  - first:
+      213: 5768179524265202574
+    second: HouseTiles_284
+  - first:
+      213: -4515685078555472581
+    second: HouseTiles_285
+  - first:
+      213: -2509780018554026617
+    second: HouseTiles_286
+  - first:
+      213: 4541707243202990224
+    second: HouseTiles_287
+  - first:
+      213: -5671803521882665407
+    second: HouseTiles_288
+  - first:
+      213: 7608214330486507726
+    second: HouseTiles_289
+  - first:
+      213: -5262048922279512822
+    second: HouseTiles_290
+  - first:
+      213: 2832624403154420976
+    second: HouseTiles_291
+  - first:
+      213: 7404348821110270064
+    second: HouseTiles_292
+  - first:
+      213: 5193097935665670722
+    second: HouseTiles_293
+  - first:
+      213: 7091472164705539704
+    second: HouseTiles_294
+  - first:
+      213: 6992692210892413368
+    second: HouseTiles_295
+  - first:
+      213: 6495612376774202083
+    second: HouseTiles_296
+  - first:
+      213: 9142394909895147434
+    second: HouseTiles_297
+  - first:
+      213: 2407463733915124692
+    second: HouseTiles_298
+  - first:
+      213: -970612618121465906
+    second: HouseTiles_299
+  - first:
+      213: 375373873030961024
+    second: HouseTiles_300
+  - first:
+      213: 7955392379204247117
+    second: HouseTiles_301
+  - first:
+      213: 2087734217036630647
+    second: HouseTiles_302
+  - first:
+      213: -6422233090710582853
+    second: HouseTiles_303
+  - first:
+      213: -5713149153773914734
+    second: HouseTiles_304
+  - first:
+      213: 5063629257658335944
+    second: HouseTiles_305
+  - first:
+      213: -2208429723248019603
+    second: HouseTiles_306
+  - first:
+      213: 6563624632117169276
+    second: HouseTiles_307
+  - first:
+      213: 1448112035821120179
+    second: HouseTiles_308
+  - first:
+      213: 4672745602635729848
+    second: HouseTiles_309
+  - first:
+      213: 9038298150557323418
+    second: HouseTiles_310
+  - first:
+      213: -950339483841523702
+    second: HouseTiles_311
+  - first:
+      213: 4456489115192654325
+    second: HouseTiles_312
+  - first:
+      213: -6978663750906400962
+    second: HouseTiles_313
+  - first:
+      213: 3314556635372085500
+    second: HouseTiles_314
+  - first:
+      213: -1511895451391208716
+    second: HouseTiles_315
+  - first:
+      213: -5389312080706128708
+    second: HouseTiles_316
+  - first:
+      213: -6906550712556530432
+    second: HouseTiles_317
+  - first:
+      213: 488205336874276878
+    second: HouseTiles_318
+  - first:
+      213: -1005502214379656027
+    second: HouseTiles_319
+  - first:
+      213: 5766710809100146502
+    second: HouseTiles_320
+  - first:
+      213: 7720974736335424047
+    second: HouseTiles_321
+  - first:
+      213: -3903981879520494407
+    second: HouseTiles_322
+  - first:
+      213: -5292073601759043325
+    second: HouseTiles_323
+  - first:
+      213: -4096216914702914401
+    second: HouseTiles_324
+  - first:
+      213: -3521092707486412746
+    second: HouseTiles_325
+  - first:
+      213: -4433889645943468397
+    second: HouseTiles_326
+  - first:
+      213: -168722894173158291
+    second: HouseTiles_327
+  - first:
+      213: -883593697650488951
+    second: HouseTiles_328
+  - first:
+      213: -6785768715944706118
+    second: HouseTiles_329
+  - first:
+      213: -1149860918887987481
+    second: HouseTiles_330
+  - first:
+      213: -3424523034728080006
+    second: HouseTiles_331
+  - first:
+      213: -8124885823712631455
+    second: HouseTiles_332
+  - first:
+      213: -6556349790617439897
+    second: HouseTiles_333
+  - first:
+      213: -1277281362094318695
+    second: HouseTiles_334
+  - first:
+      213: -3656671180215784816
+    second: HouseTiles_335
+  - first:
+      213: -2305085491490114456
+    second: HouseTiles_336
+  - first:
+      213: -1553849697685262207
+    second: HouseTiles_337
+  - first:
+      213: 6178925568607998932
+    second: HouseTiles_338
+  - first:
+      213: -9053410131979931210
+    second: HouseTiles_339
+  - first:
+      213: 530895575646472278
+    second: HouseTiles_340
+  - first:
+      213: 7502769674901259932
+    second: HouseTiles_341
+  - first:
+      213: -1193205488063000148
+    second: HouseTiles_342
+  - first:
+      213: 2475929365057345266
+    second: HouseTiles_343
+  - first:
+      213: -146088713438846793
+    second: HouseTiles_344
+  - first:
+      213: 1044292206869159965
+    second: HouseTiles_345
+  - first:
+      213: 2568971204964868996
+    second: HouseTiles_346
+  - first:
+      213: -8360930765984175909
+    second: HouseTiles_347
+  - first:
+      213: -3893131513843991631
+    second: HouseTiles_348
+  - first:
+      213: 1695033529407104342
+    second: HouseTiles_349
+  - first:
+      213: 290780648897838092
+    second: HouseTiles_350
+  - first:
+      213: 4392439728885732004
+    second: HouseTiles_351
+  - first:
+      213: -7283801529216064470
+    second: HouseTiles_352
+  - first:
+      213: 49724099931586444
+    second: HouseTiles_353
+  - first:
+      213: -999519365157243000
+    second: HouseTiles_354
+  - first:
+      213: 9183286395462841353
+    second: HouseTiles_355
+  - first:
+      213: -5873855786762718677
+    second: HouseTiles_356
+  - first:
+      213: 2763916055276211020
+    second: HouseTiles_357
+  - first:
+      213: -2838051283755770556
+    second: HouseTiles_358
+  - first:
+      213: -3469189237996982818
+    second: HouseTiles_359
+  - first:
+      213: -634995038434069506
+    second: HouseTiles_360
+  - first:
+      213: 5800356934605443398
+    second: HouseTiles_361
+  - first:
+      213: 8762510792782318090
+    second: HouseTiles_362
+  - first:
+      213: -7873698791338394019
+    second: HouseTiles_363
+  - first:
+      213: -5043083639501225853
+    second: HouseTiles_364
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HouseTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b73b53a80fce390800000000000000
+      internalID: -7787585179233322127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a204ae3fb4bb60800000000000000
+      internalID: 7761038333626720803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5844d41437c028c0800000000000000
+      internalID: -4025999040367540129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a72e47f53a1bb0800000000000000
+      internalID: -4964596302938136439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382a155f957a83f20800000000000000
+      internalID: 3402653523288105603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd184a7e32f5f7590800000000000000
+      internalID: -7674310632201223713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682bacc7bcc83b270800000000000000
+      internalID: 8265104546754900614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d191f2b41a7c5b0800000000000000
+      internalID: -5348128688194380411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb897f2f92cf2dd0800000000000000
+      internalID: -2508572478469993522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966253bd6586d8710800000000000000
+      internalID: 1697127356842714729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b0077523dd7d20800000000000000
+      internalID: 3278008261659373923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce0f1af110399d0800000000000000
+      internalID: -2768868110530188232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b1b78cb7f86a30800000000000000
+      internalID: 4208886240880210301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09639d3c2ad8bf180800000000000000
+      internalID: -9080508493452462448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a415545687be2b40800000000000000
+      internalID: 5417469189341648041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb923aad60513d0800000000000000
+      internalID: -3236673221085773910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86947a4652ac1d840800000000000000
+      internalID: 5247197302814624104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1288016b9fccc89d0800000000000000
+      internalID: -2770614297866237919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc7794e29ae9b60800000000000000
+      internalID: 7754821624644750234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fa949f2660d9b0800000000000000
+      internalID: -5057430026994388978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00987245f97fe1780800000000000000
+      internalID: -8710252365604222720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5a67c9c8acae3f0800000000000000
+      internalID: -870660872673516044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94299e9a40e26a90800000000000000
+      internalID: -7322043433057966949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8139a40ae1a56810800000000000000
+      internalID: 1757989256030663055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53574662d74c130800000000000000
+      internalID: 3586128807141389735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db8c8ba3664ef7f0800000000000000
+      internalID: -576946308363023404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877fdbb54407b5430800000000000000
+      internalID: 3772732551752185720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac0910cb087d8c0800000000000000
+      internalID: -3974566601162700062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038927b23f4b50b00800000000000000
+      internalID: 794239865799743536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f334edfd183aae8b0800000000000000
+      internalID: -5122101847978523841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3d81d4a72cc380800000000000000
+      internalID: -8949734770648204388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec8be02312b04c0800000000000000
+      internalID: -4320322918652785004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20ae330fb97c3590800000000000000
+      internalID: -7693140202155499473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23438443e69108c10800000000000000
+      internalID: 2053669391195190322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62ddb700734b200800000000000000
+      internalID: 194841159101392597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf9d71a106c00a0800000000000000
+      internalID: -6914045662734976089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace130f4bd416c3c0800000000000000
+      internalID: -4339758258768896310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f394c99d085570800000000000000
+      internalID: 8455523254467295508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df89d78b88c4f010800000000000000
+      internalID: 1221821900529438676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe763b2da79a7a0800000000000000
+      internalID: -6365421552939832371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85771988183752340800000000000000
+      internalID: 4838400374858676056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554dea4d790f51230800000000000000
+      internalID: 3609055211306275925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b750ccfb97e2ba0800000000000000
+      internalID: -6111813779626558690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859074c06b73fbe60800000000000000
+      internalID: 7980158319753365848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbcae59772d70350800000000000000
+      internalID: 5982982041043127224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b96d17b0d669790800000000000000
+      internalID: -7523706231553877173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34abacd70143940d0800000000000000
+      internalID: -3438159595086103997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1673114c2dc3c04c0800000000000000
+      internalID: -4320011066624886943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f578c3900eb917950800000000000000
+      internalID: 6445103928273831775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea7b6703c2ff440800000000000000
+      internalID: 4971741100302118559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588dfbdcd7f7f2790800000000000000
+      internalID: -7552677871777490811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c18e8727eb05e20800000000000000
+      internalID: 3337376722745564169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee12c752d9fe8ca0800000000000000
+      internalID: -6012593770682245399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a07a04e306548ce0800000000000000
+      internalID: -1403902609121972058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbcf1e59052d0d0800000000000000
+      internalID: -3399566164039517023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f121671a88bf70800000000000000
+      internalID: 9203257671550104472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5adbbb77934af160800000000000000
+      internalID: 7060029683751705180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14598f1ffe1eda260800000000000000
+      internalID: 7110587807360914753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad45c2fd303e74d30800000000000000
+      internalID: 4415747565428692186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30828da8182e46750800000000000000
+      internalID: 6297407224978876419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0e8b444674c8470800000000000000
+      internalID: 8398165901114400957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2263505c7a9f340800000000000000
+      internalID: 4898130534379954862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2333b50e2aa93d330800000000000000
+      internalID: 3734498540359725874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169bd6c29aae78f60800000000000000
+      internalID: 8036650072381700449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b800fe6729d64ea0800000000000000
+      internalID: -5888780699352168270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b175537c3f9a44270800000000000000
+      internalID: 8233892883224418075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456776cd75596200800000000000000
+      internalID: 173764059319461192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e686fab8ad14a70800000000000000
+      internalID: 8809562639591566865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6722b7570e0ab320800000000000000
+      internalID: 2574385561694513007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f19f7b2d6bc8a50800000000000000
+      internalID: 6524790976298950531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a517d4cb264ab37d0800000000000000
+      internalID: -2937573587956174502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b5706d52deb9a20800000000000000
+      internalID: 3070308317743504252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e6fd36f19b77c0800000000000000
+      internalID: -4072500951238908996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc8af4428eadc3d0800000000000000
+      internalID: -3184697486954820412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54eb0f655cda9830800000000000000
+      internalID: 4078814672030786653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69907ebe0c2ff0bd0800000000000000
+      internalID: -2661641944347244138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc872e2e0476000800000000000000
+      internalID: 29063265807551948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6c1cdd82e11a90800000000000000
+      internalID: -7344840418353451902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a87308d656ae8580800000000000000
+      internalID: -8822931728050718555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4bba4f9002b0770800000000000000
+      internalID: 8577985142388929766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0c73e3390c5540800000000000000
+      internalID: 4997879804938948558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7f70bf8a49a7d90800000000000000
+      internalID: -7099198409109145676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5583249fea9df0800000000000000
+      internalID: -172562216170202481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ca21ca13dffd30800000000000000
+      internalID: 4467521467238237588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b692713357c3dc50800000000000000
+      internalID: 6688909031701124786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec409b9f0ce09aaa0800000000000000
+      internalID: -6149367594211539762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_86
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe63e9dffc58310800000000000000
+      internalID: 1406759146811223019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57d75f8c9043b00800000000000000
+      internalID: 807280991922910632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseTiles_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f1b8c2c369fa750800000000000000
+      internalID: 6318433987413614336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
